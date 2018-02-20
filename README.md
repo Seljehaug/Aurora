@@ -1,6 +1,4 @@
-# Aurora
-
-Hello!
+# Aurora (Webproject 1)
 
 We use AngularJS in our project, so you need to use localhost to preview the page,
 if you don't the subpages will not show. We would also like to add that AngularJS
